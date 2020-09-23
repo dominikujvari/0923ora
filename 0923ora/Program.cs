@@ -10,6 +10,7 @@ namespace _0923ora
     {
         static void Main(string[] args)
         {
+            Console.ReadKey();
         }
     }
 }
